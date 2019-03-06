@@ -3,3 +3,4 @@ git is easy to learn? of courese.
 git is written by C program.
 git has a mutable index called stage/zancunqu.
 git tracks changes.
+create a branch and switch to it, which quick and easy via git checkout -b branchname,very cool.
