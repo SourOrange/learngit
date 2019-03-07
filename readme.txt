@@ -1,7 +1,7 @@
 git is a distributed version control system.
 git is easy to learn? of courese.
 git is written by C program.
-git has a mutable index called stage/zancunqu.
+git has a mutable index called stage/ZanCunQu.
 git tracks changes.
 create a new branch and switch to it, which very quickly and easy via git checkout -b branchname,very cool.
 add a new branch and merge for no fast forword test, have a try.
